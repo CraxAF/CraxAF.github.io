@@ -15,11 +15,12 @@ img {
     margin-bottom: 20px;
 }
 
-.section img {
+.fab {
+    font-size: 24px;
+    color: #333;
     margin-right: 10px;
-    transition: transform 0.2s ease;
 }
 
-.section img:hover {
-    transform: scale(1.2); /* Slightly enlarge icon on hover */
+.fab:hover {
+    color: #007bff; /* Change color on hover */
 }
