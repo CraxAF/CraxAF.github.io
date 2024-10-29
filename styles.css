@@ -14,3 +14,12 @@ img {
 .section {
     margin-bottom: 20px;
 }
+
+.section img {
+    margin-right: 10px;
+    transition: transform 0.2s ease;
+}
+
+.section img:hover {
+    transform: scale(1.2); /* Slightly enlarge icon on hover */
+}
