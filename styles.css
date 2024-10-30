@@ -24,3 +24,7 @@ img {
 .fab:hover {
     color: #007bff; /* Change color on hover */
 }
+
+a {
+    text-decoration: none;
+}
