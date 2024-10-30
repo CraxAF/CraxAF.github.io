@@ -28,3 +28,8 @@ img {
 a {
     text-decoration: none;
 }
+
+section img {
+    width: 200;
+    height: 150;
+}
