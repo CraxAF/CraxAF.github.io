@@ -18,11 +18,11 @@ img {
 .fab {
     font-size: 32px;
     color: #333;
-    margin-right: 10px;
+    
 }
 
 .fab:hover {
-    color: #007bff; /* Change color on hover */
+    color: #007bff;
 }
 
 a {
